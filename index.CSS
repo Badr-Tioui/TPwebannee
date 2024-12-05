@@ -1,11 +1,13 @@
 h1{
-    color:blue;
+    font-size: 100px;
+    color :aquamarine;
 }
+h2{
 
-p{
-    color:orange;
+    font-size: 50px;
+    color:blue
 }
 span{
-    font-size: 40px;
-    color :red;
+    font-size: 100px;
+    color:chartreuse;
 }
